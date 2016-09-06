@@ -1,0 +1,13 @@
+author: Bobby Frye 'Mozz'
+license: Creative Commons Attribution 4.0 International License.
+origin: https://mozz.itch.io/the-arcade-arcanum
+
+I created this deck as a labor of love. After years of saying "I really want to make a Tarot deck" I just knuckled down and did it. I tried to pack as much detail in this deck as I could and still keep a bright, vibrant atmosphere. It has been a great trip for me through this deck, learning about the meanings behind the cards.
+The deck covers both the major and minor arcana and supports inverted style use. All cards are 34 by 58 pixels.
+
+edit: I realized that I missed uploading card backs for the deck, so I added a new .zip file with 6 back options
+
+if you would like a printed deck - I have it up for sale here :
+https://www.thegamecrafter.com/games/arcade-arcanum1
+
+The font used on the cards is "Frog Princess" created by Annie Anthropy and can be found here : https://w.itch.io/world-of-fonts
