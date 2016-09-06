@@ -1,0 +1,16 @@
+Author: Daniel F. Walthall, byth
+License: CC BY 4.0
+Origin: http://opengameart.org/content/32px-rpg-cluttericons-plus-64px-book-stack
+        https://axebanegames.itch.io/free-fantasy-stock-art
+
+This pack contains 32x32 and 32x64 RPG clutter, downsized (in the case of the pickaxe, mangled as well) and colorized from Daniel F. Walthall/Axebane's Free! Fantasy Stock Art.
+
+The pickaxe, which is what I needed the most, I couldn't make look okay, but it'll serve as a placeholder until I actually learn to art. The hammer and scrolls may actually be usable. Also included as a bonus is a stack of books. Maybe you have giants in your game and they need bigger books? Either way, they won't agree to even look like the pickaxe if I downsize them further.
+
+For those curious or interested in modifying the original pack, all of the art looks quite nice downsized to 128x. Going further than that requires some editing.
+
+ 
+original pack: https://axebanegames.itch.io/free-fantasy-stock-art
+
+Copyright/Attribution Notice: 
+These are based on Axebane's Free! Fantasy Stock Art. You can find the link here: https://axebanegames.itch.io/free-fantasy-stock-art. If you alter/share/use this work, please include the above link. You can credit myself, Byth, in any reasonable sort of credits file, though a link back to this page (in ADDITION to the link to the original work by Axebane) is appreciated.
