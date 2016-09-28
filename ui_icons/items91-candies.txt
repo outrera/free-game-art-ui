@@ -1,0 +1,11 @@
+author: Lumi Mae 'lumimae' (http://lumimae.carbonmade.com/)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/candy-pack-1
+
+\o/ candies for your candy game! \o/
+
+    16 different candies
+    1 explosion
+    assets in 3 sizes
+    SVG included
+    http://thecandyjam.com/
