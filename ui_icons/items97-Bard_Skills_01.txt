@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/26x26-bard-spellsskills-part-1
+
+Lesser Healing Word, Healing Word, Slumber, Lesser Motivation, Motivation
