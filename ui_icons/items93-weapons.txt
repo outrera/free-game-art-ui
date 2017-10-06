@@ -1,0 +1,29 @@
+Author: Scrittl
+License: CC-BY, CC-BY-SA, GPL3
+Origin: https://opengameart.org/content/weapon-icons-32x32px-painterly
+
+Here is a set of painterly drawn weapon icons (32x32px)
+
+I initially made them for a game, but the development does not seem to go any further. So I am releasing them now here and hope they may be useful for someone else.
+
+The archive contains the following 37 different weapons (*.png)
+
+    4 * Longsword
+    3 * Crossbow
+    3 * Shortsword
+    3 * Axe
+    3 * Wooden staff
+    3 * Spear
+    3 * Claw
+    3 * Hammer
+    3 * Bow
+    3 * Club
+    3 * Dagger
+    3 * Halbert
+
+(matching armor icons can be found here: http://opengameart.org/content/armor-icons-32x32-px-painterly)
+
+ 
+Update by request: Added layered gimp *xcf. files and *.png files with transparent background. (Attention: If an item looks wrong with a different background, it may be because it has transparency in it. Add something black behind it, or multi-duplicate the layer before adding a different background then.)
+
+It should be a little bit easier to create item variations with this set (instead of the armor set mentioned before). I have used more layers here.
