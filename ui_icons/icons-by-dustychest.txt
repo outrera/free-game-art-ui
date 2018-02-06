@@ -1,3 +1,8 @@
+Author: pauliuw
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/skill-item-and-spell-icons
+        http://dustychest.blogspot.com/
+
 All graphics in this folder is under CCO license, that means you can do whatever you want with them. 
 
 The sources is not included because i lost them.

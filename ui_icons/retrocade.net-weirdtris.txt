@@ -1,0 +1,16 @@
+Author: https://retrocade.net
+License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode)
+Origin: https://retrocade.net/open-art/weirdtris/
+
+This pack contains all the art from Weirdtris, a match-3 puzzler with gravity:
+
+    Logo
+    Background in 2 variants
+    In-game GUI buttons
+    6 colored blocks
+    A star for particle
+    Unused level meter
+
+
+ 1. When crediting usage of this artwork use "Retrocade.net" and optionally the logo. If you need a higher resolution version of the logo contact me at maurycy@retrocade.net
+ 2. Short summary of the license is available here: https://creativecommons.org/licenses/by/4.0/
