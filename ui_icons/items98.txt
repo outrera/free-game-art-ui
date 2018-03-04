@@ -1,4 +1,4 @@
-Author: AlexYeCu
+Author: AlexYeCu (https://github.com/AlexYeCu)
 License: CC-BY-SA 4.0
 Origin: https://opengameart.org/content/fantasy-rpg-items-0
 
