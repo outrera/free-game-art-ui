@@ -1,0 +1,5 @@
+author: Marcus (http://www.naalaa.com/)
+license: Public Domain (CC0)
+source: http://opengameart.org/content/platform-game-sprites
+
+Lowres, Platform game sprites.

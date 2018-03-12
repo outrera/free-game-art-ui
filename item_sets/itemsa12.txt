@@ -1,0 +1,5 @@
+Author: Justin Nichol
+License: GPL 2.0, GPL 3.0
+Origin: https://opengameart.org/content/fantasy-items-set
+
+This is a small set of fantasy items I never finished done in the same style as my Modern Item Set. There are eleven items in this set. All made in gimp.

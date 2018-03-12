@@ -1,3 +1,0 @@
-author: Blarumyrran
-license: GPL2, GPL3, CC0 (Public Domain)
-source: http://opengameart.org/content/laurels

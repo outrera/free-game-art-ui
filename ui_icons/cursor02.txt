@@ -1,8 +1,0 @@
-Author: Alexander 'Kemono' (http://www.ascensiongamedev.com/community/profile/495-kem/)
-License: CC-BY
-Origin: http://opengameart.org/content/cursoranimated
-
-made this for when you move your cursor, left, right or idle.
- 
-Copyright/Attribution Notice: 
-Credit my name somewhere, otherwise use as you wish.

@@ -1,3 +1,0 @@
-author: Dakal
-license: CC-BY 3.0
-source: http://opengameart.org/content/magic-buttons

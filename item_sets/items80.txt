@@ -1,0 +1,6 @@
+Author: Carlos (Slainte)
+License: OGA-BY 3.0
+Origin: http://opengameart.org/content/assorted-20x20-weapos
+
+Small collection of fantasy weaponry in a 20x20 grid
+

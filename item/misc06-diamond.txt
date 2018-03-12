@@ -1,0 +1,13 @@
+author: City Building Game Art (http://www.citybuildingkit.com/)
+License: Public Domain (CC0)
+origin: https://opengameart.org/content/gem-for-mobile-game-iap
+
+Get your bling on with this rare currency. Add this diamond to your game UI.
+
+Includes:
+
+    Large 1000x850 PNG image
+    .psd Photoshop source included
+    Multi-layer source file for easier editing
+
+Let me know if you have any questions or requests!

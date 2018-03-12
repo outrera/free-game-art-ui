@@ -1,0 +1,12 @@
+Author: AlexYeCu (https://github.com/AlexYeCu)
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/fantasy-rpg-items-0
+
+Some items, made for WoX2 and TGE projects (both RIP unfortunately).
+
+All items can pe pasted to some 32x32 cells, I have a calc table with coordionates, lua table too, bash script to convert first to second. Contact me, if you need this.
+
+
+Anyway, artists of 3DO were much more professional than I am.
+
+Some of my models (about 5 may be) were made in the style of M&M's rpgs and looks similar. Well, thay were made for fan-project in 3DO's M&M universe. So, do not know if this is a problem, or not.

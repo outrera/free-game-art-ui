@@ -1,3 +1,0 @@
-author: Widelands Team
-license: GPL2
-origin: https://wl.widelands.org/

@@ -1,0 +1,20 @@
+Author: Gabe Hess 'GabeChHe' (https://gabech.itch.io/game-objects-pack)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/pixel-weapons
+
+Includes the following weapons in .png format:
+ - Revolver
+ - Battle axe
+ - Knife
+ - Sword
+ - Flail
+ - Hammer
+ - Ji
+ - Machine Gun
+ - Nunchuks
+ - Ninja Star
+
+The full pack can be found here: https://gabech.itch.io/super-pixel-weapons-pack
+
+Copyright/Attribution Notice: 
+If used commercially, credit Gabe Hess and leave a link to https://gabech.itch.io/super-pixel-weapons-pack

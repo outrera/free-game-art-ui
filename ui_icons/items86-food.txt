@@ -1,6 +1,0 @@
-author: Henry Software
-license: Public Domain (CC0) https://creativecommons.org/publicdomain/zero/1.0/
-origin: https://henrysoftware.itch.io/pixel-food
-        http://opengameart.org/content/64-16x16-food-sprites
-
-Part of a larger pack that sells for USD 5.

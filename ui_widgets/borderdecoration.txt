@@ -1,8 +1,0 @@
-Author: Joakim Persson 'JAP' (http://opengameart.org/users/jap)
-License: CC-BY-SA, GPL2, GPL3
-Origin: http://opengameart.org/content/borderdecoration
-        http://opengameart.org/content/silverstar-and-bronze-heart-icons
-
-A border decoration (for buttons or windows or menu's etc) in a carved sandstone look
-
-Two small icons, a silver star on a silver ring and a bronze heart on a bronze ring.

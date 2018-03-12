@@ -1,3 +1,0 @@
-author: IQbrew
-license: CC-BY 3.0
-origin: http://opengameart.org/content/heart-stone

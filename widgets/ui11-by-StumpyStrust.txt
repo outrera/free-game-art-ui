@@ -1,0 +1,17 @@
+author: StumpyStrust (http://opengameart.org/users/stumpystrust)
+license: CC-BY 3.0
+origin: http://opengameart.org/content/fantasy-ui-box
+        http://opengameart.org/content/fantasy-ui-button
+        http://opengameart.org/content/ui-icons
+        http://opengameart.org/content/loading-bar
+        http://opengameart.org/content/ui-window
+        http://opengameart.org/content/creepy-thing
+        http://opengameart.org/content/ui-button
+        http://opengameart.org/content/ui-button-and-extra
+
+All these widgets are CC-BY (credit StumpyStrust), besides creepy-thing/*, button2/* and window.png, which are public domain (CC0)
+
+"Another basic fantasy theme ui element. May make more of this style.
+
+Attribution Instructions: 
+Just give credit"

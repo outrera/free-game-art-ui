@@ -1,3 +1,0 @@
-author: hippo
-license: CC0 (Public Domain)
-source: http://opengameart.org/content/pixel-chest-and-coin

@@ -1,0 +1,10 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/curtains
+
+This image contains two curtains that go down to the ground. The middle part is vertically seamless and allows to create curtains as long as you want.
+
+The archive contains the image, the original GIMP image and the files required to recreate the image.
+
+Attribution Instructions: 
+Attribution should be done like this: © 2005-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>

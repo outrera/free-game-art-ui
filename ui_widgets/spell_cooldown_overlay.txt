@@ -1,5 +1,0 @@
-author: Chris Grimmett 'insanity54' (http://grimtech.net)
-license: Public Domain (CC0)
-source: http://opengameart.org/content/spell-cooldown-overlay
-
-An animated translucent overlay with a clock style loading indicator. Like League of Legends or World of Warcraft where your spells are on cooldown, and you have to wait to cast them again.

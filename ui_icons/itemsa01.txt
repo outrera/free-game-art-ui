@@ -1,7 +1,0 @@
-Author: Alex Chanyan (https://alexchanyan.itch.io/)
-License: Public Domain (CC0)
-Origin: https://opengameart.org/content/icons-items-1
-
-72 sprites that each fit a 16x16 grid. Sprites provided as one sheet and as individual 16x16 files. All files are PNG files. Backgrounds are transparent. All sprites are done with DawnBringer's 32 color palette. Each sprite has a black outline.
-
-Assets can be used in whatever you want. Credit not required.

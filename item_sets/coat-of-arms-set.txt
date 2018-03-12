@@ -1,0 +1,3 @@
+author: Spring (https://opengameart.org/users/spring)
+license: CC-BY 3.0, CC-BY-SA 3.0
+source: https://opengameart.org/content/coat-of-arms-set

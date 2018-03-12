@@ -1,8 +1,0 @@
-Author: Joe Williamson (http://joecreates.co.uk)
-License: CC-BY-SA 3.0
-Origin: http://opengameart.org/content/roguelikerpg-icons
-
-Some icons for roguelike/rpg.
-
-Copyright/Attribution Notice: 
-If possible, please link to my twitter (@JoeCreates) when giving credit. Thanks!

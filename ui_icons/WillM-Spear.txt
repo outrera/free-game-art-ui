@@ -1,7 +1,0 @@
-author: WillM
-license: Public Domain (CC0)
-origin: https://opengameart.org/content/spear-5
-
-Made myself. Very simple, I'd suggest using it as a game logo or an item but it's not my choice.
-
-I'd prefer if you credit me, but it is okay if you don't

@@ -1,7 +1,0 @@
-author: Jetrel
-license: CC0 (Public Domain)
-origin: http://opengameart.org/content/frogatto-friends-bitmap-fonts
-
-Here's the current set of custom bitmap fonts for our game, Frogatto & Friends - 3 large sets of Latin and Cyrillic characters (Including Belarusian, Esperanto, Czech, Polish, Lithuanian and others), and the start of a Greek alphabet.
-
-Attribution is not required, but would be really appreciated.

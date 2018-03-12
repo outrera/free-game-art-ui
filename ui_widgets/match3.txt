@@ -1,9 +1,0 @@
-author: vk
-license: CC0 (Public Domain)
-source: http://opengameart.org/content/match-3-gui
-
-original art by Buch http://opengameart.org/content/match-3
-
-textbox by cemkalyoncu
-
-scrollbars by bart
