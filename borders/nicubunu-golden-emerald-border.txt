@@ -1,0 +1,6 @@
+author: Nicu Buculei 'nicubunu'
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/golden-and-emerald-border
+
+Golden and emerald border, part of my PD-licensed clipart collection.
+http://clipart.nicubunu.ro/?gallery=borders

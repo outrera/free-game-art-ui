@@ -1,0 +1,5 @@
+author: rixty
+license: CC-BY-SA 4.0
+source: https://opengameart.org/content/tcg-trading-card-game-icons
+
+Release the icons of a card game that I'm creating

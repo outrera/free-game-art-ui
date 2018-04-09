@@ -1,0 +1,10 @@
+author: fktt
+license: GPL3, CC-BY 3.0
+source: http://opengameart.org/content/elven-dagger
+
+The Concept Art for a Static 3D model I'm making,
+for inclusion to the site's collection.
+
+Figured someone might find a use for the concept it self,
+or perhaps there are other artists out in the wild,
+that might want to model something for fun & practice. ;)

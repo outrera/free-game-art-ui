@@ -1,0 +1,5 @@
+author: Red Eclipse Team (http://redeclipse.net/)
+license: CC-BY-SA
+source: http://opengameart.org/content/red-eclipse-icons
+
+Icons in PNG format.

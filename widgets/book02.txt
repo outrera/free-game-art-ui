@@ -1,0 +1,5 @@
+Author: yd
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/spellbook-template
+
+A Gimp file with a bunch of layers that you can use to make several variants of a spellbook, or to add your own.

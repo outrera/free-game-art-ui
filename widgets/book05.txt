@@ -1,0 +1,16 @@
+Author: smuggler (explain3d.com)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/book-open-and-turn-page
+
+Sprite of book opening, turning page and closing the book. 
+
+Size of the sprite is 1000 x 2000 px and its parts are 300 x 400 px. 
+
+Background alpha.
+
+ 
+
+If some changes needed, feel free to contact me.
+
+Attribution Instructions: 
+Feel free to use for commercial or non commercial use, feel free to edit. If you help me with publishing link: explain3d.com, will be happy. Thank you.

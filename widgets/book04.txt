@@ -1,0 +1,5 @@
+Author: yd
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/fantasy-book
+
+An upgraded variant of the (spell/log/map) book I created. Hope it can be used in FLARE, possibly with some color changes. XCF file has all the layers that you can play with to adjust the color, sharpness etc.

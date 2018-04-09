@@ -1,0 +1,5 @@
+Author: mold
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/led-display-characters-raster
+
+16-segment LED display font in raster format

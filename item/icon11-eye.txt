@@ -1,0 +1,7 @@
+author: vil0gy
+license: OGA-BY 3.0
+source: http://opengameart.org/content/blue-eye
+
+10 min of drawing in PaintTool SAI
+
+and then detalited in gimp

@@ -1,0 +1,7 @@
+author: mauriku (http://www.scalablegfx.com/user/4)
+license: CC-BY 3.0 (http://www.scalablegfx.com/terms-of-use)
+origin: http://www.scalablegfx.com/svg/man-construction-kit
+
+This scalable was created as universal man character for an adventure game. It is composed of head, body, arms and various hands, legs and various hairs. Different game NPC can be easily derived from this base asset.
+
+Well, it was not such fun as working on Woman Construction Kit, but man characters are needed too.

@@ -1,0 +1,10 @@
+Author: Matias Poggini 'Delfos'
+License: OGA-BY 3.0
+Origin: https://opengameart.org/content/versus-vs-graphic-for-fighting-game
+
+Versus Graphic for fighting games.
+Its a PNG with transparent background.
+Original font was Garcia . 
+ 
+Copyright/Attribution Notice: 
+Attribution Matias Poggini. If used contact me, just so I know.

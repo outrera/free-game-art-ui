@@ -1,0 +1,8 @@
+author: Telaron
+license: GPL2
+source: https://opengameart.org/content/helmet-dagger-icons
+
+Helmets and some 'daggers'.
+
+See this thread.
+https://forums.wesnoth.org/viewtopic.php?p=406779#p406779

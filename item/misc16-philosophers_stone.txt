@@ -1,0 +1,5 @@
+Author: Buch
+License: GPL2, GPL3
+Origin: https://opengameart.org/content/philosophers-stone
+
+A picture for the card Philosopher's Stone in Darvin's CCG. Made in MyPaint; available both in colored and grayscale version

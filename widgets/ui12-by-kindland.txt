@@ -1,0 +1,8 @@
+Author: kindland
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/ui-elements-0
+
+
+Hi all, this are some UI elements which i decided to share since i don't use them, no credits required. The zip file contains the source in a psd file which can be opened in photoshop
+
+Buttons are not rasterized, so u can copy and apply the style to other stuffs

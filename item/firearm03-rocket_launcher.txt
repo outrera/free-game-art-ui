@@ -1,0 +1,5 @@
+Author: Vaceslav Kreller 'John2k'
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/rocketlauncher
+
+Used in my Project Angry Ted. Cleaned the found image on this side.

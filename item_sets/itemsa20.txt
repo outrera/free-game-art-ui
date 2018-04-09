@@ -1,0 +1,16 @@
+Author: tgfcoder <https://twitter.com/tgfcoder>
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/endless-midnight-zombie-swarm-assets
+
+Image assets from my game Endless Midnight: Zombie Swarm for Xbox 360
+
+ 
+
+Included:
+
+    2 backgrounds
+    Player sprite
+    4 zombie sprites
+    8 gun sprites with muzzle flares
+    Blood, gibs
+    Achievement logos

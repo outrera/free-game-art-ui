@@ -1,0 +1,9 @@
+author: mauriku (http://www.scalablegfx.com/user/4)
+license: CC-BY 3.0 (http://www.scalablegfx.com/terms-of-use)
+origin: http://www.scalablegfx.com/svg/woman-construction-kit
+
+This scalable was created as universal woman character for an adventure game. It is composed of head, body, arms and various hands, legs and various hairs. Different game NPC can be easily derived from this base asset.
+
+As human body was always a scary thing to draw for me, I am really proud of this asset and I ofthen used in games and presentations.
+
+Much more fun than working on Man Construction Kit.

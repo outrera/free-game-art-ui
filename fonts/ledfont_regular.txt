@@ -1,0 +1,8 @@
+Author: mold
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/led-display-characters
+
+16-segment LED display font in svg format
+
+Note: SVG files are plain white on transparent background and dont have any effects. Previews are created in gimp using artistic->softglow effect and colorize. Sorry if they are misleading
+
