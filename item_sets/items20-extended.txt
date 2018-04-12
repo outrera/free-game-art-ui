@@ -1,0 +1,10 @@
+author: Krzysztof "Ravenmore" (http://dycha.net)
+license: CC-BY 3.0
+source: https://opengameart.org/content/some-modified-assets-from-fantasy-icon-pack-by-ravenmore
+        http://opengameart.org/content/golden-items-rip-upgrade-pack
+        https://ravenmore.itch.io/fantasy-icon-pack
+
+Source: https://opengameart.org/content/fantasy-icon-pack-by-ravenmore-0
+
+Copyright/Attribution Notice: 
+You don't need to credit me. But do not forget that you still have to credit Ravenmore properly according to CC-BY.
