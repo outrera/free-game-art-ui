@@ -1,0 +1,10 @@
+Author: Viktor Hahn <Viktor.Hahn@web.de>
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/more-24x24-icons
+
+24x24 item icons. Mostly items you would expect in a medieval RPG... may contains missiles as well.
+
+Similar to https://opengameart.org/content/24x24-icons
+
+Copyright/Attribution Notice: 
+This work, made by Viktor Hahn (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution 4.0 International License. http://creativecommons.org/licenses/by/4.0/

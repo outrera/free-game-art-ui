@@ -1,0 +1,12 @@
+Author: Miloslav Číž 'drummyfish' (http://www.tastyfish.cz)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/magerage-2d-resources
+
+Graphic resources for an old game I made: https://github.com/drummyfish/Mage-Rage.
+
+Icluded are animated characters, environment tiles, objects (crates, levers, ...), GUI elements etc.
+
+If you like the work, you can support me via liberapay: https://liberapay.com/drummyfish.
+
+Copyright/Attribution Notice: 
+Attribution not required, but if you do I'll be very glad.

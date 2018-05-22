@@ -1,0 +1,5 @@
+Author: elerya
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/spells-icons
+
+A set of spells icons

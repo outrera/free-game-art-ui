@@ -1,0 +1,15 @@
+Author: Kenney (http://www.kenney.nl)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/crosshair-pack-200%C3%97
+
+This package includes 200 crosshair sprites in white, black, retina size, and with an outline. Also includes a tilesheet and vector source files for easy editing.
+
+Files:
+
+    Separate PNG files (200×)
+    Black, white, outline versions
+    Retina versions
+    Tilesheet(s)
+    Vector file(s)
+
+Let me know if you have any questions or requests!

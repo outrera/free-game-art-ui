@@ -1,0 +1,5 @@
+Author: elerya
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/set-items
+
+A couple of items such as ore, belt, rings, etc

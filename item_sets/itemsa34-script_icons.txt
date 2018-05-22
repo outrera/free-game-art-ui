@@ -1,0 +1,7 @@
+Author: Howard 'Libz0rzz' (http://www.fantasytalesonline.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/some-basic-ui-icons
+
+Just a few UI icons I have made for fun/practice. Was initially intended for a map editor.
+
+https://media.giphy.com/media/xUPGcF17brOntfYAGk/giphy.gif

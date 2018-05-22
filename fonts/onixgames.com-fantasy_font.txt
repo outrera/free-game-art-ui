@@ -1,0 +1,23 @@
+Authors: OnixGames (onixgames.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pixelart-fantasy-font-for-construct-2
+
+FREE PixelArt Fantasy Font (works great with Construct 2)
+
+Free Pixelart Fantasy Bold Font. This font works great with Construct 2 Sprite Font object. Available in 3 colors: - 1) Black - 2) White - 3) Gold
+
+Important settings:
+
+Character widht: 16
+
+Character height: 17
+
+Character Set: @ABCDEFGHIJKLMNOPQRSTUVWXYZ[£]{}€!"#$%&'()*+,-.^0123456789:;<=>?/abcdefghijklmnopqrstuvwxyz
+
+--
+
+Made by onixgames.com
+
+ 
+Copyright/Attribution Notice: 
+Free to use :)

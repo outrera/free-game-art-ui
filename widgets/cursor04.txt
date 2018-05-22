@@ -1,0 +1,11 @@
+Author: Blindman67
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/30-drag-rotate-move-cursors
+
+A set of large mouse cursors for drag, rotate, and move (plus a few extras) operations as png, sprite sheet, and CSS cursor atribute. 
+
+HTML5 CSS ready, just cut and paste the CSS cursor atribute into you CSS or HTML file or use in your javascript code. CSS cursors can be found in the file "CSS_cursors_746971.txt"
+
+All have a black and white outline to be visable on top of any colour. All have 2px blured and 30% opaque dark drop shadow to the bottom right.
+
+Presented as a zip file containing named png cursors. A sprite sheet (sprite locations encoded in image can be removed) plus sprite sheet description file that includes sprite pixel locations. A preview image, and a text file containing CSS ready versions of each sprite with the correct hotspot. 

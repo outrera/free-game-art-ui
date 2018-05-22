@@ -1,0 +1,7 @@
+Author: Xavier Sautereau 'way-21'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/gold-feather
+
+A Gold Feather 2d Bitmap.
+
+Use in the Warzum project (from Way-21).

@@ -1,0 +1,12 @@
+Author: Miloslav Číž 'drummyfish' (http://www.tastyfish.cz)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/bombman-2d-resources
+
+Graphics resources I made for my Bombman game: https://github.com/drummyfish/Bombman.
+
+Included are animated characters, tiles for many environments, item icons, GUI elements and more.
+
+If you like the work, you can support me via liberapay: https://liberapay.com/drummyfish.
+
+Copyright/Attribution Notice: 
+Attribution not required, but if you do I'll be very glad.
