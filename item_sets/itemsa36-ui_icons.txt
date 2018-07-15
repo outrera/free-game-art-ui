@@ -1,0 +1,5 @@
+Author:  Ashe Kirk 'OwlishMedia' (http://olivebranchesrpg.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rpg-ui-icons
+
+A collection of 16x16 and 32x32 user interface icons based around common RPG functions such as status effect, elements, and items.

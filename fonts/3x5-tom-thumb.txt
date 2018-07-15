@@ -1,0 +1,32 @@
+authors: Robey Pointer
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/tom-thumb-tiny-ascii-font-3x5
+
+This is a tiny ASCII font, 3x5 usable pixels (white with black outlines, so 5x7 total; descenders are 1px). Suitable for very low resolution and embedded screens, or if you just want some really really small text.
+
+Some Latin1 characters are also included, but are not complete.
+
+The main font is white but contains grey pixels to improve visibility.
+
+The font looks best as a proportional font, but monospace is fine too.
+
+The font is currently used in the open source game C-Dogs SDL.
+
+Updates
+
+    2015-06-05: Change license to CC0
+    2015-06-06: Add more Latin-1 characters thanks to usr_share
+
+About the license
+
+Note that this is derived from Tom Thumb by Robey Pointer, which is in turn derived from a VT100 emulator by Brian Swetland. The original work is licensed under BSD 3-clause, but the author gave permission for relicensing under any license of Robey Pointer's choosing:
+
+> However, given the simplicity of the font content, the fact that he made a number of significant changes (relative to the tiny size of the work), the fact that to the best of my understanding there's limited protection for the content of bitmap fonts under US copyright law anyway (though I'm not a lawyer and not offering legal advice), I have absolutely no objection if Robey would like to distribute his font under different terms than I distributed mine.
+
+> http://opengameart.org/forumtopic/how-to-submit-art-using-the-3-clause-bsd-license
+
+Also, Robey Pointer agreed to license under CC0 or CC-BY
+
+> Either CC0 or CC-BY 3.0 sounds fine to me! My intent is to let anyone use it for any purpose.
+
+> http://robey.lag.net/2010/01/23/tiny-monospace-font.html#comment-1526952840

@@ -1,0 +1,5 @@
+author: James Taft 'taftcreates'
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/match-3-assets
+
+These are assets used for a match 3 tutorial for GameMaker Studio 2 that I'm making.  
