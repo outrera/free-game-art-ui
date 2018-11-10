@@ -1,0 +1,9 @@
+Author: Davit Masia 'Matriax'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/12-stars-asset-pack
+
+A pack of 10 starts at 512x512 in .PNG with transparent from 100 total included in the +1200 big assets packs released for Pixel Fx Designer. This pack works as demo to show the assets quality.
+
+https://codemanu.itch.io/particle-fx-designer
+
+This is a public domain asset, you can use it for both personal and comercial purposes. No credit required but feel free to show us where you used it on @DavitMasia and @CodeManuPro at twitter. :)

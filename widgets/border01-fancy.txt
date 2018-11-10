@@ -1,0 +1,11 @@
+Author: WeRideForCoffee
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/fancy-border-and-looking-at-amulet-panel
+
+Here's possibly the nicest asset I made for my Game Jam entry here on OGA, the border I made for the "Tithon Panel" (what pops up to show when you're looking at Tithon, a character from my game entry)
+
+Included also is the source .krita file (https://krita.org/en/) from the digital painting app that I used to make it, along with what the panel framed in-game. WHo knows it might spark your imagination like how other art on this site has sparked mine!
+
+ 
+
+If you use this in a project of yours, I'd love to hear about it! Pop a comment down below if you want to give me warm and fuzzy feelings!

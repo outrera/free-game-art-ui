@@ -1,0 +1,9 @@
+Author: LittleFieryOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/spells-and-company
+
+Made for the 2018 Open Game Art Jam.
+
+Four graphics for activated spells, plus a HUD graphic indicating that the player has no spell.
+
+Half of a beam (meant to be mirrored), a glowing knife, a tornado, and a green beacon.
