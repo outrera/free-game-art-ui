@@ -1,0 +1,14 @@
+author: Ashe 'OwlishMedia' (owlishmedia.com)
+license: CC-BY 4.0
+origin: https://opengameart.org/content/pixel-phone
+
+I've made this for a game I'm making with a friend. A pixel art mobile phone with a few state variants including on/off, and button pushed in.
+
+Size is 640x480 pixels, with the phone being compatible with 32x32 sprites.
+
+ 
+
+Have included spritesheet and original Aseprite file.
+
+Copyright/Attribution Notice: 
+Pixel Phone by Owlish Media - owlishmedia.com
