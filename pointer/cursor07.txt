@@ -1,0 +1,5 @@
+Author: yd (http://ydstuff.wordpress.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pointers-contd
+
+A small set of pointer icons to compliment this one http://opengameart.org/content/pointers.

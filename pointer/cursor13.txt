@@ -1,0 +1,11 @@
+Author: Kamigeek (http://mrkamigeek.blogspot.fr)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/sword-and-items
+
+many items used in my game tutorial
+- sword 
+- key
+- heart
+- ladder
+- strange creature
+

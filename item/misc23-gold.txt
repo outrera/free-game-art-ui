@@ -1,0 +1,10 @@
+Author: Kamigeek (http://mrkamigeek.blogspot.fr)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/gold-coin-1
+
+gold coin animation
+
+10 pics 28px x 28px
+
+png with alpha
+
