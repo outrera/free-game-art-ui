@@ -1,0 +1,47 @@
+Author: Kyrise (https://kyrise.itch.io/ https://www.ascensiongamedev.com/profile/1137-kyrise/)
+License: CC-BY 4.0
+Origin: https://kyrise.itch.io/kyrises-free-16x16-rpg-icon-pack
+
+Kyrise's Free 16x16 RPG Icon Pack is a free asset pack that contains 300+ sprites  (with 48+ unique sprite designs) based in the old school 16-bits RPG Graphics.  
+
+The best part: it's totally free! Have fun using it :)
+
+These icons are made with a lot of love, please consider making a donation of any value <3
+
+Kyrise's Free 16x16 RPG Icon Pack includes:
+
+Weapons:
+
+    Swords
+    Staffs
+    Bows
+    Shields
+    Spellbooks
+
+Armors:
+
+    Helmets
+
+Consumables:
+
+    Potions
+    Fishes
+    Candies
+
+Misc:
+
+    Coins
+    Arrows
+    Rings
+    Necklaces / Amulets
+    Gems
+    Pearls
+    Crystals
+    Keys
+    Books
+    Scrolls
+    Ingots
+    Boxes / Gift Boxes
+    etc.
+
+Sprites provided as provided as individual 16x16, 32x32 and 48x48 resolution files and 3 different full spritesheets. All files are PNG files and each sprite has a black outline.

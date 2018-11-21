@@ -1,0 +1,9 @@
+author: Macocco (https://macocco.itch.io/ http://twitter.com/MarcoSpiess)
+license: CC-BY 4.0
+source: https://macocco.itch.io/font-bundle
+
+I offer you this font-bundle. It's in early development. More fonts will follow. All fonts are released under the CC-BY license.
+
+I use GIMP, BitFontReader and BitFontMaker2.
+
+Special thanks to @somepx. His font-bundle is available here.

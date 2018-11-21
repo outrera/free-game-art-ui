@@ -1,0 +1,11 @@
+author: Jupiter Hadley (https://jupiter_hadley.itch.io/)
+license: CC-BY 4.0
+source: https://jupiter_hadley.itch.io/sanguis-font
+
+This font was created by Jupiter Hadley.
+
+This font is released under the CC-BY License. This means that your only restriction is giving credit to Jupiter Hadley. You can use this font both in free and in commercial projects.
+
+Please consider supporting me on Patreon, or a one-time donation here if you appreciate my fonts!
+
+Special thanks to Eeve Somepx for inspiring me to do this! He has some awesome fonts too!
