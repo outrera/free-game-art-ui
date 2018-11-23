@@ -1,0 +1,15 @@
+Author: Michael Dobekidis 'netgfx' (www.nightlycoding.com)
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/modal-panel-dark-source-included
+
+
+This is a panel I used on my game: Vampyre: World at stake
+https://codecanyon.net/item/vampyre-world-at-stake/17407880?ref=Netgfx
+ 
+
+It contains all of the panel items, and a hoverable [X] button with 3 states.
+Source .psd is also attached.
+
+ 
+
+Enjoy! 

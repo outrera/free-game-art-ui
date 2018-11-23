@@ -1,0 +1,8 @@
+author: James (Lokiare) G. Holloway www.kelandlokgames.com
+license: CC-BY 3.0
+origin: https://opengameart.org/content/various-gem-stone-animations
+
+A group of various 3D gemstones in sprite sheets spinning.
+
+Attribution Instructions:
+Credit: "James (Lokiare) G. Holloway www.kelandlokgames.com"

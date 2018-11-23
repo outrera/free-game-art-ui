@@ -1,0 +1,7 @@
+author: Rilifaen
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/lightmeter
+
+A healthbar made for a game with light vs. darkness theme. The circle in the end is intended as ability cooldown bar.
+
+If you decide to use it, place it on some kind of dark background, or it's going to look bad (worse :) ). PSD included if you wish to make some alterations.
