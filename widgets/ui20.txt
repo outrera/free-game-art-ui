@@ -1,0 +1,12 @@
+Author: Nia Mi
+License: Public Domain (CC0)
+Source: https://opengameart.org/content/medieval-was-stamp-letters
+
+The package contains:
+
+    Three wax stamps and the texture of an old paper that was made by me. 
+    The letters and ornaments were edited with Photoshop. 
+    The source of the black and white photos with ornaments is here: https://openclipart.org/search/?query=ornaments&page=2 under license - CCO
+    The source of the font is https://www.fontsquirrel.com/fonts/Rothenburg-Decorative , licensed by CCO.
+
+
