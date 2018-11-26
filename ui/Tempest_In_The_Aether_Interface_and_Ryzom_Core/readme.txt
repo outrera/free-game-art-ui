@@ -1,5 +1,5 @@
 author: Tempest in the Aether and Ryzom Core
-License: CC-BY-SA
+License: CC-BY-SA 3.0
 Origin: http://opengameart.org/content/lpc-interface-items-contribution-by-tempest-in-the-aether
 
 >The license embedded into the image doesn't match the one listed here on the website.  The image says CC-NC-SA,

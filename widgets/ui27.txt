@@ -1,0 +1,11 @@
+Author: https://opengameart.org/users/spacehydra
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/user-interface-0
+
+A GUI concept with layers.
+Downloadable .PSD file.
+
+It would be nice to see what you guys come up with, so if you use this for anything, please post a link below :)
+
+Copyright/Attribution Notice: 
+If you're using this for anything, then give credit. Either in your game credits, or in a text document in your project so people can find my other works and use them too.

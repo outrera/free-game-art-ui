@@ -1,0 +1,10 @@
+Author: Chris 'Cethiel' (https://www.patreon.com/cethiel)
+License: Public Domaim (CC0)
+Origin: https://opengameart.org/content/simple-piano
+
+A simple piano design, could be useful in some games.
+
+White and black keys are included.
+
+Support me on Patreon and get every releases in a higher quality and resolution.
+https://www.patreon.com/cethiel

@@ -1,0 +1,10 @@
+Author: Chris 'Cethiel' (https://www.patreon.com/cethiel)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/potion-set
+
+Different styles of potion.
+
+Empty and mana version are included in the Zip, every potions are separated as single PNGs files.
+
+Support me on Patreon and get every releases in a higher quality and resolution.
+https://www.patreon.com/cethiel

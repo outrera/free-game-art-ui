@@ -1,0 +1,10 @@
+Author: Chris 'Cethiel' (https://www.patreon.com/cethiel)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/simple-health-bars
+
+Five differents HP bars and borders.
+
+The last one is modulable, see the Style_5 folder.
+
+Support me on Patreon and get every releases in a higher quality and resolution.
+https://www.patreon.com/cethiel
