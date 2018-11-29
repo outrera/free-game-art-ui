@@ -1,0 +1,7 @@
+Author: Antifarea 'CharlesGabriel' (http://antifarea.deviantart.com/ http://cgartsenal.blogspot.com/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/lo-res-rpg-font-symbols
+
+These symbols were originally made to be used on Rpgmaker 2003 as a replacement of the uncool symbols the program offers. Although anyone can use it in their RPGs. These are meant to be Font symbols, not a replacement for your traditional icons... but then again, why not? :)
+
+If you use this art in your project, you must put CharlesGabriel in the credits and link back to CGArtsenal.

@@ -1,0 +1,29 @@
+Author: usr_share
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/new-original-grafx2-font-collection
+
+Once again, I feel like it's time for me to upload some of my fonts that have been laying around on my hard drive onto this website.
+
+This specific collection consists of the more "original" fonts, not based on or inspired by fonts from other video games.
+
+The collection includes:
+
+Generic monospaced fonts 4x8mono, 5x8mono and 5x10mono.
+
+The 8x16 font used in the OpenAlchemist demake mockup, "Alchemist".
+
+Eight 8px proportional fonts: handwriting (BitScript), generic sans (NeoSans), generic serif (Kronos) in regular and bold, alternative serif (Paris), compact sans (Ruthenia) in four variations, blackletter (Berlin), faux-Russian (Moscow) and faux-kana (Tokyo).
+
+8x8 monospaced fonts: Cursive1, Cursive2 (sans with italic-like features, regular and bold), Formula (
+"computer style"), Moor (propaganda poster stencil), Saikyo Black (a thick gradiented and shadowed sans), Solar (a short and narrow sans, in regular and outline), Techno (a demoscene-like font).
+
+8x16 monospaced fonts: TechBreakNarrow (demoscene-like), TrioDX (bold serif), TrioDX2 (italicized serif).
+
+12x16 monospaced: TechBreak (demoscene-like).
+
+16x16 monospaced: Fight16 (rough brush-like serif).
+
+Fonts London, Paris, Techno, Tokyo and TrioDX(2) are also provided as Windows bitmap fonts (.FON).
+
+Also: Cursive and TrioDX2 have some of the lesser-used characters replaced with two-letter combinations that fit into the 8x16 grid.
+

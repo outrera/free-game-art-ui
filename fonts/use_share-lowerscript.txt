@@ -1,0 +1,19 @@
+author: usr_share
+license: Public Domain (CC0)
+source:https://opengameart.org/content/unsorted-fonts
+
+Preview
+
+Here's a bunch of pixel-art fonts that I haven't uploaded at one point. Unlike those uploaded before, they are simple images not arranged in an established font format.
+
+8x8font: a futuristic-style 8-bit font.
+
+7seg: a seven-segment 8x16 font with an alphanumeric character set.
+
+font0: a tall 8x8 aliased font with Latin and Russian characters.
+
+highdigits: a small set of italic digits.
+
+lowerscript: an 8x16 italicized font with script-like italics.
+
+segment: an experiment in creating a segmented font with less than 14 segments that would still show English and Russian characters adequately.
