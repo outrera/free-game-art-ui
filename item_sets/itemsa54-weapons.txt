@@ -1,0 +1,7 @@
+Author: JIMP
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/jimp-package-from-open-bundle
+
+This is the JIMP Package from the open bundle. Contains art from two unreleased games, including a good set of animations.
+
+http://open.commonly.cc/
