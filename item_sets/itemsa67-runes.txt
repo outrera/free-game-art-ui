@@ -1,0 +1,8 @@
+Author: ztn (http://zurreal.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/encircled-runes
+
+A collection of 34 runes wrapped in circles with rough cyan colored backgrounds.  These are all 83x83 pixel png files between 10-20KB.  They can easily be color shifted to suit your needs and look good when spinning.
+
+Part of an old project that didn't see the light of day.  Happy copying.
+

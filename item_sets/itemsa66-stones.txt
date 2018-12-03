@@ -1,0 +1,8 @@
+Author: ztn (http://zurreal.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/collection-of-rune-stones-seamless-tiles
+
+
+A collection of 16 rune symbols, each embossed to look like brown stone.  Included is a set of the symbols by themselves, a set of each symbol surrounded by a stone border, two different seamless tile textures, and a master PSD file so you can edit or replace with your own symbols, glow effects, etc.
+
+Part of an old project that didn't go anywhere.  Hopefully they will do some other project good.
