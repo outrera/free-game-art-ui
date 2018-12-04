@@ -1,0 +1,5 @@
+Author: Anonymous
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/4x4-charset
+
+alphabet > punction > numbers > block characters > check mark > block characters > math signs > checkers not in ansi order, every character should be 4x4 including the space, exluding "m" and "w" as they don't have a space. Attribution is Discouraged.
