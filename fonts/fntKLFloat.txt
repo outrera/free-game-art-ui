@@ -1,7 +1,0 @@
-author: Nick "Kelvin Shadewing" Kovacs (http://www.kelvinshadewing.net)
-license: CC-BY 3.0
-origin: http://www.kelvinshadewing.net/res/graphics/
-        http://www.kelvinshadewing.net/res/graphics/klfloat
-
-All resources listed on this page are free to use under CC-BY-3.0. If you have any suggestions for resources to add here, please post them in the Disqus thread below.
-

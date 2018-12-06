@@ -1,0 +1,10 @@
+Author: Tuomo Untinen 'Reemax' (http://tuomount.kapsi.fi/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/bold-white-font
+
+Bold white font with size 12x14. Some character are taller but maximum height is 18 pixels.
+
+Zip file contains also very simple Java code for getting the order of characters in PNG file and individual character width in pixels. That code is under public domain license and purpose of it is to help using of these fonts without manually check width of those characters or orders in PNG file.
+
+Attribution Instructions: 
+Bold white font made by Tuomo Untinen
