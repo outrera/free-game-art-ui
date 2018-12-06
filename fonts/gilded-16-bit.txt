@@ -1,4 +1,4 @@
-author: Cartisticdude
+author: artisticdude
 license: CC0 (Public Domain)
 source: http://opengameart.org/content/16-bit-gilded-bitmap-font
 

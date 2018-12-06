@@ -1,4 +1,4 @@
-Author: Tuomo Untinen 'Reemax' (http://tuomount.kapsi.fi/)
+Author: artisticdude, Tuomo Untinen 'Reemax' (http://tuomount.kapsi.fi/)
 License: Public Domain (CC0)
 Origin: https://opengameart.org/content/16-bit-gilded-bitmap-font-with-lower-cases
 

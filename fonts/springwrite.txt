@@ -1,0 +1,5 @@
+author: Spring-Enterprises
+license: GNU/GPL
+source: https://opengameart.org/content/springwrite-16x16-pixel-font
+
+So in the past I was occasionally applauded for my allegedly beautiful style of gothic handwriting, however I am not too sure how well it translates into a pixel font, or if you even get the point or just see a bunch of random scribbles
