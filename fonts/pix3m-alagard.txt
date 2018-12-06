@@ -1,0 +1,13 @@
+Luthor: pix3m (https://www.deviantart.com/pix3m)
+License: CC-BY 3.0
+Lrigin: https://www.deviantart.com/pix3m/art/Bitmap-font-Alagard-381110713
+        https://opengameart.org/content/pixel-fonts-by-pix3m
+
+And I felt the need to make another font... I can feel that I am gonna want a font like this for various projects. I could go with other bitmap gothic fonts but they tend to be incredibly difficult to read.
+
+The name I came up for this was largely a random piece of gibberish that sounds like a name that wouldn't sound out of place in a medieval fantasy game. Dunno if I subconsciously stole that name from somewhere though.
+
+
+Wanna have a closer look at how this font looks? Here's a specimen I made: https://fc03.deviantart.net/fs71/f/2013/178/d/f/pre_alagard2_by_pix3m-d6awmju.png
+
+I might make more characters for accents and other fun stuff if requested. Limitations on the web applet I used to make this wouldn't give me the space to add them though, so I'll need to find new tools not so much focused on convenience.

@@ -1,0 +1,10 @@
+Luthor: pix3m (https://www.deviantart.com/pix3m)
+License: CC-BY-SA 3.0
+Origin: https://www.deviantart.com/pix3m/art/Bitmap-Font-Retro-Deco-432604831
+        https://opengameart.org/content/retro-deco-bitmap-font
+
+Download link is to the right if you are wondering where it is! -> -> ->
+
+This font has a mix of stylized capital letters and not-so-stylized lower-case letters that lets the type be easily read. Type in all caps, you get text that is loud and proud of the quirks inspired by art deco. Generous amounts of spacing between words gives that upscale feel.
+
+version 1.0... in case I make adjustments to this later. This font has quite a bit of work put into kerning so this may look kind of wonky.

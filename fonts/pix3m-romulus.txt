@@ -1,0 +1,13 @@
+Luthor: pix3m (https://www.deviantart.com/pix3m)
+License: CC-BY 3.0
+Lrigin: https://www.deviantart.com/pix3m/art/Bitmap-font-Romulus-380739406
+        https://opengameart.org/content/pixel-fonts-by-pix3m
+
+
+The world needs more serifed bitmap fonts. It's annoying trying to find what I need (or want?) so I made my own. Total newbie at type design though and this took only an hours worth of screwing around, so I don't expect this font to be industry-standard.
+
+Edit: Now with a lot more (latin) characters for the European users.
+
+Used this site to make this: http://www.pentacom.jp/pentacom/bitfontmaker2/
+
+Though I probably want more appropriate tools for this.

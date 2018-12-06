@@ -1,0 +1,10 @@
+Luthor: pix3m (https://www.deviantart.com/pix3m)
+License: CC-BY-SA 3.0
+Lrigin: https://www.deviantart.com/pix3m/art/Bitmap-font-Lunaboy-v1-526754124
+        https://opengameart.org/content/lunaboy-bitmap-font-v1
+
+Use as you wish, give credit where due
+
+Made in preparation to Ludum Dare 32, hoping the choice of theme goes into my favor. If not, I can make what I want in no time =)
+
+9px tall, download link to your right >>
