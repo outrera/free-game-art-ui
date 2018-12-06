@@ -1,0 +1,16 @@
+Author: Miloslav Ciz 'drummyfish' <miloslav.ciz@gmail.com> (http://www.tastyfish.cz/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/dungeon-crawl-selected-upscale
+
+This is a collection of 32 selected sprites from Dungeon Crawl Stone Soup that I upscaled twice (= 4 times more pixels) with pixelart scaling algorithms (HQ2X, scale2x and similar) and then manually polished to achieve high quality.
+
+ 
+
+ If you like the work, you can support me:
+
+- liberapay: https://liberapay.com/drummyfish
+
+- patreon: https://www.patreon.com/drummyfish
+
+- PayPal: miloslav.ciz@gmail.com
+
