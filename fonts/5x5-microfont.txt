@@ -1,0 +1,14 @@
+Author: Vitor T. Martins 'vimino'
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/starjuggler
+
+These files are from my shoot-em-up game: Star Juggler, found at itch.io.
+Made for the LOWREZJAM were participants needed to make a game with a size of 64x64px.
+
+Numbers indicate wether it belonged to the Prototype (0) or the Alpha (1) version.
+
+Notes:
+  - There was no Background in the Prototype
+  - Files without a number were the same on both versions (ex: MicroFont)
+  - The Star (Players' projectile) was in the projectiles file in the case of the Prototype
+  - The Microfont has letters and symbols with sizes ranging from 1x1 (.) to 5x5 (W)

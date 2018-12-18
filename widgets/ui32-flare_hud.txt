@@ -1,0 +1,3 @@
+Author: Robert C. 'Mumu'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/flare-hud

@@ -1,5 +1,5 @@
 Author: Jose Victor 'JosephSeraph' (http://creative-joseraph.tumblr.com/)
-License: CC-BY
+License: CC-BY 3.0
 Origin: https://opengameart.org/content/js-icon-pack-01
 
 A few icons I released a while back! Inspired by games such as Star Ocean and Tales of Phantasia with their beautiful, elaborate items. It's so inspiring! I always felt so immersed and compelled to find new items and examine them closely.
