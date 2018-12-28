@@ -1,0 +1,18 @@
+Author: wokste
+License: CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/tools-and-other-items
+
+icons.zip contains 17 icons for items, including the six tools shown on the preview.
+
+template.xcf contains all you need to make your own images in the same style. Just use this tiny guide (Using Gimp):
+
+    Make a picture of the item.
+    Remove the background of the picture and paste it in template .xcf between the Light and background.
+    (Optional) Make shadow.
+        Make a duplicate of the new layer, below the original one.
+        Make it black. (Colors -> Brightness contrast)
+        Blur it (Filters -> Blur -> Gausian blur) with a raduis arround 12
+    (Optional) Save your work
+    Merge all layers
+    Scale it to 64 * 64 and export it as jpg
+    (Optional) Upload it to openGameArt.org

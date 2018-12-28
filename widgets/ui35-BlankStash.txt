@@ -1,0 +1,29 @@
+Author: Marshall 'itsmars' (https://www.youtube.com/channel/UCi-pgPO6PX0hauuBgubkeLQ)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rpg-bankstash
+
+
+Hey, itsmars.
+
+Included is the Bank / Stash I'll be using for my Youtube Video Tutorials.
+It was heavily inspired by Diablo 2.
+
+The Inventory has 64 slots, at 64x64 pixels.
+
+I'll link the corresponding video tutorial once I record it.
+Check back later, or go subscribe! :)
+https://www.youtube.com/c/itsmarstutorials
+
+sidenote: the Health orb pictured above is a separate download.
+Check it out here:
+http://opengameart.org/content/health-orb-11
+
+
+Update 1.1!
+I decided against using transparent inventory icons, so I added a "blank slot" image.
+
+edit: Actually, I'm going to stick with transparent items.
+I will leave the BlankSlot.png because I worked on it for so long.
+
+Copyright/Attribution Notice: 
+CC0, Public Domain. Have fun!

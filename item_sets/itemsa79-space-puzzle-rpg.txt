@@ -1,0 +1,10 @@
+Author: Ponywolf (http://www.ponywolf.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/match-three-space-rpg
+
+We are releasing this asset pack from an open source game we created for the Corona SDK.
+
+This is an open-source prototype of both a "match three" game and an old-school RPG with an infinite hallway and items to collect. It's not a complete game, but a jumping off point for folks that want to explore and learn modern game programming techniques in Lua with the Corona SDK.
+
+Copyright/Attribution Notice: 
+The game, source and graphics are free and free to modify under the Creative Commons CC0 licence.

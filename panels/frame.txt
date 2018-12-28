@@ -1,0 +1,5 @@
+Author: Matthew 'gargargarrick'
+License: Public Domain (CC0)
+Source: https://opengameart.org/content/blue-decorated-window
+
+A simple text window/dialog with a fantasy-ish theme, perhaps suitable for an RPG.

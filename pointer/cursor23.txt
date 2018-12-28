@@ -1,0 +1,15 @@
+Author: yd (http://ydstuff.wordpress.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pointers-part-5
+
+Another addition to the collection of pointers. Previous submissions can be found here:
+
+http://opengameart.org/content/pointers-part-4
+
+http://opengameart.org/content/pointers
+
+http://opengameart.org/content/pointers-contd
+
+http://opengameart.org/content/pointer-part3
+
+ PS: the current size is 72x72. I suggest you scale the the sprites down to 48x48. Also you may play with color to suit your game color-scheme.

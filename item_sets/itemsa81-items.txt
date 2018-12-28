@@ -1,0 +1,10 @@
+Author: Yiannis Panagiotopoulos 'yiannisd' (http://17pounder.deviantart.com/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/zeta-item-slot-icons
+
+Icons that can be used as Equipment Slots
+
+They are 64x64 size. If you need other size, I have provided the svg File to HQ Scale them to your needs.
+
+Copyright/Attribution Notice: 
+Yiannis Panagiotopoulos

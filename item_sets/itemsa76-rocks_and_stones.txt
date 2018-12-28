@@ -1,0 +1,5 @@
+Author: SangerStudios
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rock-and-stones
+
+Vector rocks and stones.

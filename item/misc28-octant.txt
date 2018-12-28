@@ -1,0 +1,11 @@
+Author: verbalshadow
+License: CC-BY 3.0
+Source: https://opengameart.org/content/newtons-octant
+
+Orginally made for a Client who didn't pay. 
+
+Include 16-256px PNG icons and the Orginal SVG files.
+
+Created from drawings of Newtons Octant.
+
+http://en.wikipedia.org/wiki/Octant_(instrument)#Newton.27s_reflecting_quadrant

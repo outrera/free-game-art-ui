@@ -1,0 +1,18 @@
+Author: Marshall 'itsmars' (https://www.youtube.com/channel/UCi-pgPO6PX0hauuBgubkeLQ)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rpg-tooltip
+
+Hey, itsmars.
+
+Included is the background, title bar and divider for the Tooltip I'll be making in my Youtube Video Tutorial.
+It was heavily inspired by Path of Exile item Tooltips.
+
+Font used is called "Dumbledor", from dafont.com
+http://www.dafont.com/dumbledor.font
+
+I'll link the corresponding video tutorial once I record it.
+Check back later, or go subscribe! :)
+https://www.youtube.com/c/itsmarstutorials
+
+Copyright/Attribution Notice: 
+CC0, Public Domain. Have fun!

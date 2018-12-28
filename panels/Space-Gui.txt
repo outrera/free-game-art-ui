@@ -1,0 +1,5 @@
+Author: Rawdanitsu
+License: Public Domain (CC0)
+Source: https://opengameart.org/content/simple-hud-gui-constraction-kit-in-8-colors
+
+This is simple construction kit for creating hud-like space/sci-fi gui. You will find all parts in zip file.

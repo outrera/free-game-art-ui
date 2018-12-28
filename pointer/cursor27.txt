@@ -1,0 +1,5 @@
+Author: sbed
+License: CC-BY 3.0, CC-BY-SA 3.0
+Origin: https://opengameart.org/content/some-hud-elements-icons-and-crosshairs
+
+A few crosshairs and icons.

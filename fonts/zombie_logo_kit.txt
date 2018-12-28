@@ -1,0 +1,9 @@
+author: Osmic (http://www.villeseppanen.com)
+license: CC-BY 3.0
+source: https://opengameart.org/content/zombie-logo-diy-kit
+
+Characters (A-Z, 0-9) for your casual zombie game logo. Can probably be modiffied for non-casual games too.
+
+Two versions: "Boned" and normal.
+
+Based on 100% free font Zombie (http://www.dafont.com/zombie.font)

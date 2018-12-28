@@ -1,0 +1,19 @@
+Author: Rawdanitsu
+License: Public Domain (CC0)
+Source: https://opengameart.org/content/space-gui-in-various-colors
+
+There are 5 panels made in 6 colors:
+
+- purple
+
+- green
+
+- cyan
+
+- yellow
+
+- blue
+
+- red
+
+ You can find *.psd file in zip.

@@ -1,0 +1,9 @@
+Author: yd (http://ydstuff.wordpress.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pointer-part3
+
+Another addition to the collection of pointers:
+
+http://opengameart.org/content/pointers and http://opengameart.org/content/pointers-contd
+
+ Animated. Full rotation in 40 frames. Each frame is 64x64 pixels.

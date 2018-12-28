@@ -1,0 +1,37 @@
+Author: Marshall 'itsmars' (https://www.youtube.com/channel/UCi-pgPO6PX0hauuBgubkeLQ)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/health-orb-11
+
+
+Hey, itsmars.
+
+ 
+
+Included is a free "orb" or "globe" to use for displaying health & mana (or fury, wrath, spirit, arcane energy, etc.).
+
+ 
+
+The "fill" .PNG is white by default, so that's the one to recolor (In your Game Dev Software / Photoshop).
+
+ 
+
+Also included are two seamless "render clouds" which I use to give my liquid a "scrolling" appearance.
+
+ 
+
+Check the setup out on Youtube!
+https://www.youtube.com/watch?v=-bU0lesUai0
+
+ 
+
+Update 1.1!
+Added a new, darker Panel with action bar slots. PSD is included, check it out!
+This update is to go along with my new Inventory.
+http://opengameart.org/content/rpg-inventory
+
+I'll link the corresponding video tutorial once I record it.
+Check back later, or go subscribe! :)
+https://www.youtube.com/c/itsmarstutorials
+
+Copyright/Attribution Notice: 
+CC0, Public Domain. Have fun!

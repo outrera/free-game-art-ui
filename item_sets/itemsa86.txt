@@ -1,0 +1,11 @@
+Author: fmunoz.geo
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/wesnoth-attack-icons
+
+Preview
+
+These are some old attack icons I did for Wesnoth. The files provided are just the ones only done by me, the game still uses some updated versions with other developers improvements.
+
+There are 60x60 but I also added larger 240x240 images and xcf source files for some of them.
+
+It includes magic staff, fangs, lamp, mask, necklace or pendant, whip, kantele, chainmail, cleaver, 2 hoof, glaive, fist, pitchfork, hammer and throwing razors.

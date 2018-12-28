@@ -1,0 +1,41 @@
+Author: Marshall 'itsmars' (https://www.youtube.com/channel/UCi-pgPO6PX0hauuBgubkeLQ)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rpg-inventory
+
+Hey, itsmars.
+
+Included is the Inventory / Character Sheet I'll be using for my Youtube Video Tutorials.
+It was heavily inspired by the Diablo series, Torchlight series & Path of Exile.
+
+The Inventory has 32 slots, at 64x64 pixels.
+
+The Character Sheet has 10 EquipSlots, at 81x81 pixels
+(Strange dimensions, but I'll be resizing the equipment icons in Unity).
+
+My chosen equipslots will be...
+Head/Chest/Gloves/Boots/MainHand/Neck/Ring/Ring/Belt/OffHand,
+but feel free to open the .PSD and resize the EquipSlots to make room for more
+
+(with only 10 EquipSlots, I left out room for Cape/Shoulders/Shirt/Writs/Legs/Trinket/Tabard, etc.).
+
+I'll link the corresponding video tutorial once I record it.
+Check back later, or go subscribe! :)
+https://www.youtube.com/c/itsmarstutorials
+
+sidenote: the Mana orb pictured above is a separate download.
+Check it out here:
+http://opengameart.org/content/health-orb-11
+
+ 
+
+Update 1.1!
+I decided against using transparent inventory icons, so I added a "blank slot" image.
+
+edit: Actually, I'm going to stick with transparent items.
+I will leave the BlankSlot.png because I worked on it for so long.
+
+Update 1.2!
+Added some rarity borders. Colors inspired by PoE.
+
+Copyright/Attribution Notice: 
+CC0, Public Domain. Have fun!

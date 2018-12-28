@@ -1,0 +1,8 @@
+Author: Yiannis Panagiotopoulos 'yiannisd' (http://17pounder.deviantart.com/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/zeta-engine-ability-icons-part1
+
+I created some RPG ability icons for my project. There is a Zip file where I uploaded every icon in seperate file, and also included the SVG file where you can scale/edit every icon without problems. I used Inkscape to create them. When I'm done with some more programming in my project, I will create and upload further icons, and probaly not only Ability, but also Item icons. The Icons have size 64x64.
+
+Copyright/Attribution Notice: 
+Yiannis Panagiotopoulos

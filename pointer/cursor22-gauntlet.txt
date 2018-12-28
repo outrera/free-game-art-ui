@@ -1,0 +1,31 @@
+Author: Marshall 'itsmars' (https://www.youtube.com/channel/UCi-pgPO6PX0hauuBgubkeLQ)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/gauntlet-cursor
+
+Hey, itsmars.
+
+Included are some 32x32 pixel cursors of a Medieval Gauntlet.
+
+They're all edited versions of yd's "Pointers: part 5".
+http://opengameart.org/content/pointers-part-5
+
+ 
+
+Included is also some cursors outlined in color, should you want to change it contextually;
+
+▪ A yellow outline could be for when you're hovering over a quest item.
+▪ Blue could be an openable door or chest.
+▪ Red could be for hostile enemies.
+▪ White could be for NPCs.
+
+Lastly, I included four extra versions of the cursor, which were actually just layers in photoshop, as I worked towards my final product.
+
+I don't use them, but they could be perfect for your game, or even better bases to work off of, if you wish to make more adjustments to them, in photoshop.
+
+ 
+
+I used these in a video tutorial. Check it out here:
+https://www.youtube.com/watch?v=5ytd5BNjfEk
+
+Copyright/Attribution Notice: 
+CC0, Public Domain. Have fun!

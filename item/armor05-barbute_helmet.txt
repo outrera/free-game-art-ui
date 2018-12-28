@@ -1,0 +1,5 @@
+Author: dismal_denizen
+License: CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/helmet-barbute
+
+32x32 pixel image of a barbute helmet.
