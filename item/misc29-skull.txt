@@ -1,0 +1,5 @@
+Author: Seafood5040
+License: Public Domain (CC0)
+Source: https://opengameart.org/content/skull-3
+
+It's a 2-bit color skull.

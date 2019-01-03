@@ -1,0 +1,5 @@
+Author: Piotr 'RedWololoBlue'
+License: CC-BY 4.0
+Source: https://opengameart.org/content/heart-icon
+
+Pixel heart tries to look like actuall organ instead of pixel hearts that we all know. 

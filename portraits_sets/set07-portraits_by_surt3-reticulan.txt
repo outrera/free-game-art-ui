@@ -1,0 +1,9 @@
+Author: Carl Olsson 'surt'
+License: CC-BY 3.0, GPL 3.0, GPL 2.0
+Origin: http://opengameart.org/content/modular-reticulan-portraits
+
+64x64 grid.
+
+Separate upper-head, lower-head and torso parts.
+
+Seperate colours for each material to facilitate recolouring.

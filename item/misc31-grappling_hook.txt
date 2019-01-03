@@ -1,0 +1,13 @@
+Author: azureguy
+License: Public Domain (CC0)
+Source: https://opengameart.org/content/grappling-hook
+
+While searching through the OGA database the other day, I noticed that there was no grappling hook of any kind. Since I needed something for my own project anyway, I created something in Inkscape, and make it available here.
+
+This is nothing special, but it may be of some use for somebody someday. The SVG file is included in the zipfile.
+
+ 
+
+The hook/anchor is based on the picture shown on the Wikipedia article, whereas the rope is copypasted from this.
+
+No credit is required since it's public domain. But if it makes you feel better, "azureguy" will suffice. (again, this is entirely voluntary).

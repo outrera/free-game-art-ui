@@ -1,0 +1,5 @@
+Author: Son Phan 'DieMango' (http://www.patreon.com/DieMango)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/gun-sprites-2
+
+guns with a styled palette.

@@ -1,0 +1,7 @@
+Author: Joseph Hewitt 'Pyrrho12' (http://gearheadrpg.com/)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/joseph-hewitts-fantasy-rpg-portrait-set-1
+
+A set of 26 fantasy portraits done in traditional media (mostly acrylic, with a few watercolor and gouache). The set includes humans, orcs, elves, and dwarves. Images are 600 x 900 pixels and in png format.
+
+These images are suitable for use as player characters in a CRPG, or even for use in your tabletop RPG sessions.

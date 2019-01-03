@@ -1,0 +1,5 @@
+Authors: Felipe Moreira <felipeilustrador@gmail.com>
+License: GPL3
+Origin: https://opengameart.org/content/orc-0
+
+The Orc

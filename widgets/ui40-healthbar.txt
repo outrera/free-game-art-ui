@@ -1,0 +1,7 @@
+author: FiveAsOne
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/custom-healthbar
+
+Just a customized healthbar. Free to use. 
+
+I was bored.
