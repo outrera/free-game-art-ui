@@ -1,0 +1,18 @@
+Author: Adam 'Atomic' Saltsman (http://adamatomic.com)
+License: Public Domain (CC0)
+Origin: http://adamatomic.com/abandonauts/
+        https://opengameart.org/content/abandonauts-8x8-tile-assets
+
+A set of Metroid-like tiles by Adam Atomic, released into the public domain.  The original assets are here:
+
+http://adamatomic.com/abandonauts/
+
+(Note that the assets here may not be current.  Please check the original site for tha latest version.)
+
+See Adam Atomic's website, here:
+
+http://adamatomic.com
+
+ 
+Copyright/Attribution Notice: 
+Abandonauts art assets by Adam 'Atomic' Saltsman
